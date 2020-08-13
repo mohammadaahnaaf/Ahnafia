@@ -1,0 +1,141 @@
+.top {
+  background-color: #ade498;
+
+  height: auto;
+}
+
+a {
+  color: #ba7967;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.top2 {
+  height: 400px;
+  width: 400px;
+margin-left: 27rem;
+margin-top: 60px;
+display: inline-block;
+}
+.top1 {
+  height: 100px;
+width: 100px;
+margin-left: 10rem;
+display: inline-block;
+}
+.middle {
+
+  background-color: #dfd3c3;
+
+}
+.middle1 {
+  margin-left: 200px;
+  display: inline-block;
+}
+.myButton {
+	box-shadow: 1px 1px 33px -2px #de16d1;
+	background-color:#4baccf;
+	border-radius:5px;
+
+	display:inline-block;
+	cursor:pointer;
+	color: #dfd3c3;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:13px 25px;
+	text-decoration:none;
+	text-shadow:1px 1px 1px #c26565;
+}
+.myButton:hover {
+	background-color:#c26565;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+p {
+
+    font-family: 'Cormorant Garamond', serif;
+  font-size: 30px;
+  height: 300px;
+width: 600px;
+}
+.p1 {
+  font-size: 40px;
+  color: #c26565;
+}
+.bottom {
+  background-color: #00bcd4;
+
+
+}
+.last-p {
+  color: #fe91ca;
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 61px;
+  color: #62760c;
+}
+h {
+    font-family: 'Cormorant Garamond', serif;
+    color: #ba7967;
+  font-size: 100px;
+  margin-top: 30px;
+}
+h4 {
+  color: #158467;
+  font-size: 20px;
+}
+.Subtitle {
+    font-family: 'Cormorant Garamond', serif;
+    color: #065446;
+    font-size: 50px;
+}
+.image-moon {
+  height: 100px;
+  width: 100px;
+}
+
+.image-cemel {
+  width: 120px;
+  height: 120px;
+  margin-left: 300px;
+display: inline-block;
+  position: relative;
+}
+.image-stars {
+  display: inline-block;
+  margin-left: 200px;
+}
+.skill-p1 {
+  font-size: 30px;
+color: #a35d6a;
+}
+.skill-span {
+  color: #ba7967;
+}
+.skill-rows{
+    margin-left: 200px;
+    height: 100px;
+    width: 600px;
+}
+
+.skill-p2 {
+
+  font-size: 20px;
+
+}
+.skill-paragraph {
+  color: #00b7c2;
+  display: inline-block;
+  position: relative;
+  margin-left: 200px;
+}
+.image-cloud {
+  height: 200px;
+  width: 200px;
+}
